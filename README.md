@@ -44,12 +44,3 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolgushing&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=dolgushing&color=green)
-
-### Languages and Tools
-
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" color="white" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<br />
