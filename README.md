@@ -12,7 +12,6 @@ I'm a Software Automation Engineer & a bit Backend Developer from Russia, Saint-
 
 - My Websites :yum: 
 - [routesetters.ru](https://routesetters.ru)
-- [bouldertime.ru](https://bouldertime.ru)
 
 Here are some ideas to get you started:
 
