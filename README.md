@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dolgushing&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolgushing&hide=TeX&layout=compact)
+
 ![Codewars](https://www.codewars.com/users/DolgushinG/badges/large)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=dolgushing&color=green)
