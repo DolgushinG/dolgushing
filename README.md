@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolgushing&hide=TeX&layout=compact)
 
 ![Codewars](https://www.codewars.com/users/DolgushinG/badges/large)
-
+[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%DolgushinG&logo=leetcode&logoColor=yellow)](https://leetcode.com/DolgushinG/)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=dolgushing&color=green)
