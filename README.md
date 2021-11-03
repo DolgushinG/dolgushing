@@ -15,8 +15,8 @@ I'm a Software Automation Engineer & a bit Backend Developer from Russia, Saint-
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mygento eCommerce Solutions
-- 🌱 I’m currently learning Laravel
+- 🔭 I’m currently working on Itis
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
