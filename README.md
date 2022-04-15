@@ -1,7 +1,7 @@
 ## Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 
 
-I'm a Software Automation Engineer from Russia, Saint-Petersburg. I like building new stuff and work with other people.
+I'm QA Test automation Engineer I like building new stuff and work with other people.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@dolgushin-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/zhorads/)](https://instagram.com/zhorads/)
