@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--- just --->
 
-![Python](https://img.shields.io/badge/-python-00599C?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
