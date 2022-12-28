@@ -1,7 +1,7 @@
 ## Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 
 
-I'm QA Test automation Engineer I like building new stuff and work with other people.
+I'm QA Fullstack I like building new stuff and work with other people.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@dolgushin-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/zhorads/)](https://instagram.com/zhorads/)
@@ -15,14 +15,9 @@ I'm QA Test automation Engineer I like building new stuff and work with other pe
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Itis
+- 🔭 I’m currently working on ITIS
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ## ⚡ Technologies
 
