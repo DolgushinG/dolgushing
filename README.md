@@ -6,7 +6,7 @@ I'm QA Fullstack I like building new stuff and work with other people.
 
 [![Instagram Badge](https://img.shields.io/badge/-@dolgushin-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/zhorads/)](https://instagram.com/zhorads/)
 [![Linkedin Badge](https://img.shields.io/badge/-Dolgushin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ru.linkedin.com/in/georgii-dolgushin-5837311b6)](https://ru.linkedin.com/in/georgii-dolgushin-5837311b6)
-[![Telegram Badge](https://img.shields.io/badge/-@dolgushin-0088CC?style=flat&logo=Facebook&logoColor=white)](https://t.me/dolgushin_georgii "Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-@dolgushin-0088CC?style=flat&logo=Facebook&logoColor=white)](https://t.me/gdolgushin "Contact on Telegram")
 
 ### You can find my stuff here :leaves:
 
