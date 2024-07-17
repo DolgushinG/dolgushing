@@ -11,7 +11,7 @@ I'm QA Fullstack I like building new stuff and work with other people.
 ### You can find my stuff here :leaves:
 
 - My Websites :yum: 
-- [routesetters.ru](https://routesetters.ru)
+- [climbing-events.ru](https://climbing-events.ru)
 
 Here are some ideas to get you started:
 
